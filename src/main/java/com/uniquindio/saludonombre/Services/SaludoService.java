@@ -1,4 +1,4 @@
-package com.uniquindio.saludonombre.services;
+package com.uniquindio.saludonombre.Services;
 
 import com.uniquindio.saludonombre.dto.MessageDTO;
 import com.uniquindio.saludonombre.dto.NameDTO;

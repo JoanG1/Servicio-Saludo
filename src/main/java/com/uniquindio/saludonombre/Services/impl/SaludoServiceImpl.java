@@ -1,8 +1,8 @@
-package com.uniquindio.saludonombre.services.impl;
+package com.uniquindio.saludonombre.Services.impl;
 
 import com.uniquindio.saludonombre.dto.MessageDTO;
 import com.uniquindio.saludonombre.dto.NameDTO;
-import com.uniquindio.saludonombre.services.SaludoService;
+import com.uniquindio.saludonombre.Services.SaludoService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
